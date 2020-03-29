@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Cons Expiry",
+    "author": "TerableMods",
+    "description": "Notifies you when a consumable has expired (Bravery, Noctenium, Canephora)",
+    "options": {
+        "niceName": "Cons Expiry",
+		"guiName": "Cons Expiry"
+    },    
+    "servers": ["https://raw.githubusercontent.com/TerableMods/Cons-Expiry/master/"],
+    "supportUrl": "https://github.com/TerableMods/Cons-Expiry/issues"
+}

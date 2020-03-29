@@ -1,0 +1,14 @@
+{
+	"files": {
+		"README.md": "41a3389dd1c3dc94557ab01228360733abbb32c2e6ac0ff55ed9a0bea4f55e56",
+		"index.js": "ff27817ceaa856e15b8bc3c051e5b480304355d796846c797c13885434979307",
+		"module.json": "3c0e760401328559dd25379a4fe33439e90a807a96f37601584fa020d9a55564"
+	},
+	"defs": {
+		"S_LOGIN": 14,
+		"S_ABNORMALITY_BEGIN": 3,
+		"S_ABNORMALITY_REFRESH": 1,
+		"S_ABNORMALITY_END": 1,
+		"S_CHAT": 3
+	}
+}
